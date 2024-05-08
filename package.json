@@ -1,0 +1,15 @@
+{
+  "name": "projeto-teste-api",
+  "version": "1.0.0",
+  "description": "Teste de API",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Tatiane Correa Camilo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.8.1"
+  }
+}
